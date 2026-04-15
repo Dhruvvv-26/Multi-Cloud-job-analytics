@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 data/processed/
+data/job_postings_raw.csv
